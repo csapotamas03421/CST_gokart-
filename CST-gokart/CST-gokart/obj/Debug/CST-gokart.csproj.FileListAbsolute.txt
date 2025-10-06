@@ -1,0 +1,7 @@
+C:\Users\CsapoTamas\Desktop\Asztali\CST_gokart\CST-gokart\CST-gokart\bin\Debug\CST-gokart.exe.config
+C:\Users\CsapoTamas\Desktop\Asztali\CST_gokart\CST-gokart\CST-gokart\bin\Debug\CST-gokart.exe
+C:\Users\CsapoTamas\Desktop\Asztali\CST_gokart\CST-gokart\CST-gokart\bin\Debug\CST-gokart.pdb
+C:\Users\CsapoTamas\Desktop\Asztali\CST_gokart\CST-gokart\CST-gokart\obj\Debug\CST-gokart.csproj.AssemblyReference.cache
+C:\Users\CsapoTamas\Desktop\Asztali\CST_gokart\CST-gokart\CST-gokart\obj\Debug\CST-gokart.csproj.CoreCompileInputs.cache
+C:\Users\CsapoTamas\Desktop\Asztali\CST_gokart\CST-gokart\CST-gokart\obj\Debug\CST-gokart.exe
+C:\Users\CsapoTamas\Desktop\Asztali\CST_gokart\CST-gokart\CST-gokart\obj\Debug\CST-gokart.pdb
